@@ -3,3 +3,8 @@
 
 2. git reset head fileName
 	fileName文件修改了，已放入暂存区，把暂存区的修改撤销掉,重新放回工作区。
+	
+3. git checkout -b dev
+	git checkout 命令加上 -b 表示创建并切换分支。
+	相当于：git branch dev
+			git checkout dev
