@@ -8,3 +8,9 @@
 	git checkout 命令加上 -b 表示创建并切换分支。
 	相当于：git branch dev
 			git checkout dev
+
+4. git merge dev
+	git merge 命令是将dev分支合并当前的分支。
+
+5. git branch -d dev
+	删除Dev分支。
